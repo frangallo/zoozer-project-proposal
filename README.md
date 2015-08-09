@@ -52,9 +52,7 @@ I plan to use third-party libraries to add functionality to the 'OffersForm', "O
 
 ### Phase 5: Searching for Blogs and Posts (~3-4 days)
 I'll need to add `search` routes to the SaleItems controllers. On the
-Backbone side, there will be a `SearchResults` composite view has `SalesItemIndex`
-and `OffersIndex` subviews. These views will `saleitems` and `offers`
-collections, but they will fetch from the new `search` routes.
+Backbone side, there will be a `SearchResultsIndex` composite view that has a 'SearchResultsIndexItem' composite. This composite will include `SalesItemIndex`and `OffersIndex` subviews. These views will use `saleitems` and `offers`collections, but they will fetch from the new `search` routes.
 
 [Details][phase-five]
 

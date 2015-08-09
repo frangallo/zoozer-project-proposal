@@ -1,4 +1,4 @@
-# Phase 5: Searching for Blogs and Posts
+# Phase 4: Searching for SellItems
 
 ## Rails
 ### Models
@@ -14,5 +14,7 @@ Api::ItemController (search)
 ### Collections
 
 ### Views
+  SearchIndexItems (composite view,contains SellItemsShow and OffersIndex subviews)
+  SearchIndex (composite view, contains SearchIndexItems)
 
 ## Gems/Libraries

@@ -1,15 +1,15 @@
-# Phase 1: User Authentication, Basic Blogs and Posts
+# Phase 1: User Authentication, Basic SellItems and Offers
 
 ## Rails
 ### Models
 * User
-* Items
+* SellItems
 * Offers
 
 ### Controllers
 * UsersController (create, new)
 * SessionsController (create, new, destroy)
-* ItemsController (create, new, show)
+* SellItemsController (create, new, show)
 * OffersController (create, new, show)
 
 ### Views
@@ -17,6 +17,8 @@
 * session/new.html.erb
 * items/new.html.erb
 * items/show.html.erb
+* offers/new.html.erb
+* offers/show.html.erb
 
 ## Backbone
 ### Models

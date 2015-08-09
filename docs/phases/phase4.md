@@ -1,13 +1,11 @@
-# Phase 4: User Feeds
+# Phase 3: Editing and Displaying Posts
 
 ## Rails
 ### Models
 
 ### Controllers
-Api::OffersController (feed)
 
 ### Views
-posts/feed.json.jbuilder
 
 ## Backbone
 ### Models
@@ -15,6 +13,9 @@ posts/feed.json.jbuilder
 ### Collections
 
 ### Views
-* ItemShow (composite view, contains OffersIndex subview)
+* OfferForm
+* OffersIndexItem
 
 ## Gems/Libraries
+* Markdown-js
+* Bootstrap Markdown

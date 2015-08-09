@@ -13,7 +13,8 @@
 ### Collections
 
 ### Views
-* OfferForm
+* SellItemsShows
+* SellItemsForm
 
 ## Gems/Libraries
 * Filepicker

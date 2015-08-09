@@ -27,8 +27,7 @@ ZooZer is a clone of Craigslist & Ebay built on Rails and Backbone. Users can:
 
 ### Phase 1: User Authentication, Sale Items Creation (~1 day)
 I will implement user authentication in Rails based on the practices learned at
-App Academy. By the end of this phase, users will be able to create for sale items and offers using a simple text form in a Rails view. The most important part of this phase will be pushing the app to Heroku and ensuring that everything works before moving on
-to phase 2.
+App Academy. By the end of this phase, users will be able to create for sale items and offers using a simple text form in a Rails view.
 
 [Details][phase-one]
 
@@ -52,7 +51,7 @@ I plan to use third-party libraries to add functionality to the 'OffersForm', "O
 
 ### Phase 5: Searching for Blogs and Posts (~3-4 days)
 I'll need to add `search` routes to the SaleItems controllers. On the
-Backbone side, there will be a `SearchResultsIndex` composite view that has a 'SearchResultsIndexItem' composite. This composite will include `SalesItemIndex`and `OffersIndex` subviews. These views will use `saleitems` and `offers`collections, but they will fetch from the new `search` routes.
+Backbone side, there will be a `SearchResultsIndex` composite view that has a `SearchResultsIndexItem` composite. This composite will include `SalesItemIndex`and `OffersIndex` subviews. These views will use `saleitems` and `offers`collections, but they will fetch from the new `search` routes.
 
 [Details][phase-five]
 

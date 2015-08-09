@@ -3,24 +3,24 @@
 ## New Session
 ![new-session]
 
-## Feed Show (landing page)
+## Search Results (landing page - defaults to user location)
 ![feed-show]
 
-## Blog Show
-![blog-show]
+## Item Sell Form
+![item-sell-form]
 
-## Post Show
-![post-show]
+## Item Sell Show
+![item-sell-show]
 
-## Post Form
-![post-form]
+## Offer Form
+![offer-form]
 
-## Search Results
-![search-results]
+## Offer Show
+![offer-show]
 
 [new-session]: ./wireframes/new_session.png
-[feed-show]: ./wireframes/feed_show.png
-[blog-show]: ./wireframes/blog_show.png
-[post-show]: ./wireframes/post_show.png
-[post-form]: ./wireframes/post_form.png
 [search-results]: ./wireframes/search_results.png
+[item-sell-form]: ./wireframes/item_sell_form.png
+[item-sell-show]: ./wireframes/item_sell_show.png
+[offer-form]: ./wireframes/offer_form.png
+[offer-show]: ./wireframes/offer_show.png

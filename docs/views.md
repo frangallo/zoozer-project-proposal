@@ -4,7 +4,7 @@
 ![new-session]
 
 ## Search Results (landing page - defaults to user location)
-![feed-show]
+![search-results]
 
 ## Item Sell Form
 ![item-sell-form]

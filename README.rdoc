@@ -1,7 +1,8 @@
 # ZooZer
 
+[Heroku link][heroku]
 [heroku]: zoozer.herokuapp.com
-[url]: www.zoozer.io
+
 
 ## Minimum Viable Product
 ZooZer is a clone of Craigslist & Ebay built on Rails and Backbone. Users can:

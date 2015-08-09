@@ -13,7 +13,7 @@
 ### Collections
 
 ### Views
-* PostForm
+* OfferForm
 
 ## Gems/Libraries
 * Filepicker

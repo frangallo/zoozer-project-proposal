@@ -4,7 +4,7 @@
 ### Models
 
 ### Controllers
-Api::PostsController (feed)
+Api::OffersController (feed)
 
 ### Views
 posts/feed.json.jbuilder
@@ -15,6 +15,6 @@ posts/feed.json.jbuilder
 ### Collections
 
 ### Views
-* FeedShow (composite view, contains PostsIndex subview)
+* ItemShow (composite view, contains OffersIndex subview)
 
 ## Gems/Libraries

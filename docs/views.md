@@ -3,6 +3,9 @@
 ## New Session
 ![new-session]
 
+## Mock Search Results
+![mock-search-results]
+
 ## Search Results (landing page - defaults to user location)
 ![search-results]
 
@@ -24,3 +27,4 @@
 [item-sell-show]: ./wireframes/item_sell_show.png
 [offer-form]: ./wireframes/offer_form.png
 [offer-index]: ./wireframes/offer_index.png
+[mock-search-results]: ./wireframes/Mock.png
